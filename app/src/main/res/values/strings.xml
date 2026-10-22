@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Student Expense Tracker</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Login -->
+    <string name="login_title">Student Login</string>
+    <string name="login_subtitle">Track your daily student expenses &amp; savings</string>
+    <string name="email_hint">Student Email</string>
+    <string name="password_hint">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_fill_demo">Fill Sample Credentials</string>
+    <string name="login_error_empty">Please fill all fields</string>
+    <string name="login_error_invalid">Invalid email address or password too short</string>
+
+    <!-- Dashboard -->
+    <string name="greeting_format">Hello, %s 👋</string>
+    <string name="student_subtitle_format">%1$s • %2$s</string>
+    <string name="card_balance_title">Bank Balance</string>
+    <string name="card_expense_title">Expenses (This Month)</string>
+    <string name="card_savings_title">Savings (This Month)</string>
+    <string name="card_transactions_title">Total Transactions</string>
+    <string name="recent_expenses">Recent Expenses</string>
+    <string name="view_all">View All</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="btn_add_expense">Add Expense</string>
+    <string name="budget_warning_title">Budget Alert!</string>
+    <string name="budget_warning_msg">You have spent %d%% of your monthly budget. Please manage spending carefully!</string>
+
+    <!-- Expenses -->
+    <string name="all_expenses">All Expenses</string>
+    <string name="search_hint">Search expenses by title or note…</string>
+    <string name="filter_all">All</string>
+    <string name="filter_food">Food</string>
+    <string name="filter_travel">Travel</string>
+    <string name="filter_books">Books</string>
+    <string name="filter_entertainment">Entertainment</string>
+    <string name="filter_shopping">Shopping</string>
+    <string name="filter_other">Other</string>
+    <string name="no_expenses_found">No expenses found</string>
+    <string name="no_expenses_sub">Tap the \'+\' button below to add your first expense</string>
+
+    <!-- Add/Edit Expense -->
+    <string name="title_add_expense">Add New Expense</string>
+    <string name="title_edit_expense">Edit Expense</string>
+    <string name="hint_expense_title">Expense Title (e.g. Lunch with friends)</string>
+    <string name="hint_expense_amount">Amount (₹)</string>
+    <string name="select_category">Select Category</string>
+    <string name="hint_expense_date">Date</string>
+    <string name="hint_expense_notes">Notes (Optional)</string>
+    <string name="btn_save_expense">Save Expense</string>
+    <string name="btn_update_expense">Update Expense</string>
+    <string name="error_enter_title">Please enter expense title</string>
+    <string name="error_enter_amount">Please enter a valid amount</string>
+    <string name="error_select_category">Please select a category</string>
+
+    <!-- Summary & Reports -->
+    <string name="monthly_summary_title">Monthly Financial Summary</string>
+    <string name="label_budget">Monthly Budget</string>
+    <string name="label_spent">Total Spent</string>
+    <string name="label_remaining">Remaining Balance</string>
+    <string name="label_saved">Total Saved</string>
+    <string name="formula_desc">Savings = Monthly Budget − Total Expenses</string>
+    <string name="category_breakdown_title">Category-wise Spending</string>
+    <string name="spending_percentage">Spending Percentage</string>
+    <string name="btn_export_pdf">Export Monthly Report (PDF)</string>
+
+    <!-- Profile -->
+    <string name="profile_title">Student Profile</string>
+    <string name="label_student_name">Student Name</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_college">College</string>
+    <string name="label_course">Course</string>
+    <string name="label_email">Email</string>
+    <string name="settings_title">App Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode_desc">Switch between Light and Dark theme</string>
+    <string name="edit_balance_budget">Update Bank Balance &amp; Budget</string>
+    <string name="reset_sample_data">Reset to Sample Student Data</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- Currency & Common -->
+    <string name="currency_symbol">₹</string>
+    <string name="currency_format">₹%,.2f</string>
+    <string name="currency_format_no_decimal">₹%,d</string>
+</resources>

@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Dark mode. -->
+    <style name="Theme.StudentExpenseTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@color/surface_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorSecondaryVariant">@color/accent_orange_dark</item>
+        <item name="colorOnSecondary">@color/surface_white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/bg_light_gray</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Background -->
+        <item name="android:windowBackground">@color/bg_light_gray</item>
+    </style>
+
+    <!-- Custom Card Style -->
+    <style name="CardStudent" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/card_border</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+
+    <!-- Stat Card Style -->
+    <style name="StatCard">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">14dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/card_border</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+</resources>

@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_travel.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-debug-4:/layout_fragment_profile.xml.flat",
+        "source": "com.student.expensetracker.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_receipt.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_receipt.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_other.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_food.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_search_field.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_search_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_shopping.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_entertainment.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_school.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_fragment_reports.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_fragment_expenses.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_gradient_header.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_gradient_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_activity_add_edit_expense.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_shopping.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_dark_mode.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_dark_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_pie_chart.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_pie_chart.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-debug-4:/layout_activity_login.xml.flat",
+        "source": "com.student.expensetracker.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-debug-4:/layout_fragment_dashboard.xml.flat",
+        "source": "com.student.expensetracker.app-main-6:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_other.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_button_green.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_button_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_entertainment.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_entertainment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_warning.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_filter.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_savings.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_savings.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_books.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_button_orange.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_button_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_books.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_account_balance.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_account_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_notes.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_dialog_edit_balance_budget.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\dialog_edit_balance_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_food.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_selector_bottom_nav.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\selector_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\drawable_bg_badge_travel.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\drawable\\bg_badge_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-debug-4:\\layout_item_expense.xml.flat",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\item_expense.xml"
+    }
+]

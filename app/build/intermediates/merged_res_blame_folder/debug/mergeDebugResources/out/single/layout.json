@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\fragment_reports.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\activity_add_edit_expense.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_add_edit_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\dialog_edit_balance_budget.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\dialog_edit_balance_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\item_expense.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\item_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\fragment_expenses.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_expenses.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-mergeDebugResources-3:/layout/activity_login.xml",
+        "source": "com.student.expensetracker.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-mergeDebugResources-3:/layout/fragment_profile.xml",
+        "source": "com.student.expensetracker.app-main-6:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-mergeDebugResources-3:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\HP\\.gradle\\daemon\\9.8.1\\com.student.expensetracker.app-main-6:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "com.student.expensetracker.app-mergeDebugResources-3:/layout/fragment_dashboard.xml",
+        "source": "com.student.expensetracker.app-main-6:/layout/fragment_dashboard.xml"
+    }
+]

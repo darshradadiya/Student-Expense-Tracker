@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_orange">#FFB74D</color>
+    <color name="accent_orange_dark">#F57C00</color>
+    <color name="accent_orange_light">#3E2723</color>
+    <color name="accent_orange_tint">#4E342E</color>
+    <color name="bg_light_gray">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_border">#2C2C2C</color>
+    <color name="cat_books">#81C784</color>
+    <color name="cat_books_bg">#1B3820</color>
+    <color name="cat_entertainment">#BA68C8</color>
+    <color name="cat_entertainment_bg">#311B92</color>
+    <color name="cat_food">#FF8A65</color>
+    <color name="cat_food_bg">#3E2723</color>
+    <color name="cat_other">#90A4AE</color>
+    <color name="cat_other_bg">#263238</color>
+    <color name="cat_shopping">#FFB74D</color>
+    <color name="cat_shopping_bg">#3E2723</color>
+    <color name="cat_travel">#4DB6AC</color>
+    <color name="cat_travel_bg">#004D40</color>
+    <color name="danger_red">#E57373</color>
+    <color name="divider_gray">#2C2C2C</color>
+    <color name="expense_orange">#FF8A65</color>
+    <color name="primary_green">#81C784</color>
+    <color name="primary_green_dark">#2E7D32</color>
+    <color name="primary_green_light">#1B3820</color>
+    <color name="primary_green_tint">#264D2B</color>
+    <color name="savings_green">#81C784</color>
+    <color name="surface_white">#1E1E1E</color>
+    <color name="text_muted">#757575</color>
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="warning_orange">#FFB74D</color>
+    <style name="CardStudent" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/card_border</item>
+        <item name="android:layout_marginBottom">12dp</item>
+    </style>
+    <style name="StatCard">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="cardCornerRadius">14dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="strokeColor">@color/card_border</item>
+        <item name="cardBackgroundColor">@color/card_background</item>
+    </style>
+    <style name="Theme.StudentExpenseTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@color/surface_white</item>
+        
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="colorSecondaryVariant">@color/accent_orange_dark</item>
+        <item name="colorOnSecondary">@color/surface_white</item>
+        
+        <item name="android:statusBarColor">@color/bg_light_gray</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <item name="android:windowBackground">@color/bg_light_gray</item>
+    </style>
+</resources>
